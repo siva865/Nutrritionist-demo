@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaWeight, FaLeaf, FaBaby, FaHeart, FaBrain, FaAllergies } from 'react-icons/fa';
-import "./Services.css"
+import "./services.css"
 
 const Services = () => {
   const services = [
